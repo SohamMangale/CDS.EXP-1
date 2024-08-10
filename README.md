@@ -39,6 +39,7 @@ soham-vs_code_installation.docx
 11] A pop-up window will appear. Click on new tab and add the link of the location of MingGW in THIS PC (in bin). And click on OK. Your Visual Studio Code is ready for use.
 
 Code -
+
 1.
 //Soham
 //23070123084
@@ -50,6 +51,7 @@ int main()
     std::cout<<"hello world";
     return 0;
 }
+
 2.
 // Soham 
 // 23070123084
