@@ -38,9 +38,11 @@ soham-vs_code_installation.docx
 
 11] A pop-up window will appear. Click on new tab and add the link of the location of MingGW in THIS PC (in bin). And click on OK. Your Visual Studio Code is ready for use.
 
-Code -
+##Code -
 
-1.
+###1.
+
+```
 //Soham
 //23070123084
 //entc b1
@@ -52,7 +54,8 @@ int main()
     return 0;
 }
 
-2.
+###2.
+
 // Soham 
 // 23070123084
 // entc B1
@@ -71,6 +74,8 @@ int main() {
     cout<<"Sum of given numbers="<<sum;
     return 0;
 }
+```
+
 Explanation -
 Hello World: The program includes the necessary header files and uses the standard output stream to print "Hello World" to the console.
 
