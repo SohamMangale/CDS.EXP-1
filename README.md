@@ -1,10 +1,10 @@
 # EXPERIMENT-1
 This repository features introductory C++ code samples, including a "Hello, World!" program and a basic example for calculating and displaying the sum of various mathematical expressions
 Experiment-1
-Aim -
+## Aim -
 Downloading and installing of vs code,(Hello world and calculator program)
 
-Theory -
+## Theory -
 we study about downloading and installing of vs code and the start doing programs in it.
 
 These programs introduce fundamental concepts in C++ programming:
@@ -81,12 +81,12 @@ Hello World: The program includes the necessary header files and uses the standa
 
 Sum: These programs take input from the user, perform arithmetic calculations to find the sum of a number.
 
-Output -
+##Output -
 1.![image](https://github.com/user-attachments/assets/9e7898cb-bfc7-4fb0-9314-e0fa53333068)
  2. ![image](https://github.com/user-attachments/assets/dd94e199-860b-4b7d-b1ae-af7ef791b577)
 
 
-Conclusion -
+##Conclusion -
 These basic programs provide a solid foundation for understanding C++ syntax and basic operations by the setup of vs code and Mingw.
 
 They illustrate how to use input/output streams, arithmetic operations, which are essential for complex programming tasks.
